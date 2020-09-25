@@ -27,4 +27,10 @@ All My Reps from [Angela Yu's Swift 5 Course at Udemy](https://www.udemy.com/cou
 
 ## [Destini](https://github.com/jpedrosg/jpsg.cursoswift.destini)
 
+## [I Am Rich - SwiftUI](https://github.com/jpedrosg/jpsg.cursoswift.i_am_rich)
+
+## [My Card - SwiftUI](https://github.com/jpedrosg/jpsg.cursoswift.mycard)
+
+## [Dicee - SwiftUI](https://github.com/jpedrosg/jpsg.cursoswift.dicee_swiftui)
+
 
