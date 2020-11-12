@@ -1,36 +1,41 @@
 # jpsg.cursoswift
 All My Reps from [Angela Yu's Swift 5 Course at Udemy](https://www.udemy.com/course/ios-13-app-development-bootcamp/)!
 
+## [CleanTodoey - CleanSwift](https://github.com/jpedrosg/CleanTodoey)
 
+## [CleanCrypto - CleanSwift](https://github.com/jpedrosg/CursoSwift_FlashChat)
 
-## [Flash Chat](https://github.com/jpedrosg/jpsg.cursoswift.flash_chat)
+## [I Am Rich - SwiftUI](https://github.com/jpedrosg/CursoSwift_IAmRich)
 
-## [Bytecoin](https://github.com/jpedrosg/jpsg.cursoswift.bytecoin)
+## [Dicee - SwiftUI](https://github.com/jpedrosg/CursoSwift_DiceeSwiftUI)
 
-## [Clima](https://github.com/jpedrosg/jpsg.cursoswift.clima)
+## [H4x0r News](https://github.com/jpedrosg/CursoSwift_H4x0rNews)
 
-## [Tipsy](https://github.com/jpedrosg/jpsg.cursoswift.tipsy)
+## [Flash Chat](https://github.com/jpedrosg/CursoSwift_FlashChat)
 
-## [BMI Calculator](https://github.com/jpedrosg/jpsg.cursoswift.calculadora_imc)
+## [Bytecoin](https://github.com/jpedrosg/CursoSwift_ByteCoin)
 
-## [Magic 8 Ball](https://github.com/jpedrosg/jpsg.cursoswift.magic_8ball)
+## [Clima](https://github.com/jpedrosg/CursoSwift_Clima)
 
-## [Calculator Layout](https://github.com/jpedrosg/jpsg.cursoswift.calculator_layout)
+## [Tipsy](https://github.com/jpedrosg/CursoSwift_Tipsy)
 
-## [Xylophone](https://github.com/jpedrosg/jpsg.cursoswift.xylophone)
+## [BMI Calculator](https://github.com/jpedrosg/CursoSwift_CalculadoraImc)
+
+## [Magic 8 Ball](https://github.com/jpedrosg/CursoSwift_Magic8Ball)
+
+## [Calculator Layout](https://github.com/jpedrosg/CursoSwift_CalculatorLayout)
+
+## [Xylophone](https://github.com/jpedrosg/CursoSwift_Xylophone)
+
+## [Auto Layout](https://github.com/jpedrosg/CursoSwift_AutoLayout)
 
 ## [Egg Timer](https://github.com/jpedrosg/jpsg.cursoswift.egg_timer)
 
-## [Egg Timer](https://github.com/jpedrosg/jpsg.cursoswift.egg_timer)
+## [Quizzer](https://github.com/jpedrosg/CursoSwift_Quizzler)
 
-## [Quizzer](https://github.com/jpedrosg/jpsg.cursoswift.quizzler)
+## [Destini](https://github.com/jpedrosg/CursoSwift_Destini)
 
-## [Destini](https://github.com/jpedrosg/jpsg.cursoswift.destini)
 
-## [I Am Rich - SwiftUI](https://github.com/jpedrosg/jpsg.cursoswift.i_am_rich)
 
-## [My Card - SwiftUI](https://github.com/jpedrosg/jpsg.cursoswift.mycard)
-
-## [Dicee - SwiftUI](https://github.com/jpedrosg/jpsg.cursoswift.dicee_swiftui)
 
 
